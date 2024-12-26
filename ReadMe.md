@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Novus Concepts<br><br>🌱 I’m currently learning Vue.js, Flutter<br><br>👨‍💻 All of my projects are available at https://linktr.ee/Nihir.Shah<br><br>💬 Ask me about Django<br><br>📫 How to reach me nihirshah34@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/nihir-shah-2964a1209
+🔭 I’m currently working on Novus Concepts<br><br>🌱 I’m currently learning Vue.js, Flutter<br><br>👨‍💻 All of my projects are available at https://specty-ns.github.io/nihir-shah/<br><br>💬 Ask me about Django<br><br>📫 How to reach me nihirshah34@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/nihir-shah-2964a1209
 
 
 ## 🌐 Socials:
