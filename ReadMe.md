@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SPSS Foundation Website.<br><br>🌱 I’m currently learning Vue.js, Flutter<br><br>👨‍💻 All of my projects are available at https://www.shahnihir.com/<br><br>💬 Ask me about Django<br><br>📫 How to reach me contact@shahnihir.com<br><br>📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nihir-shah-2964a1209)
+🔭 I’m currently working on SPSS Foundation Website.<br><br>🌱 I’m currently learning Vue.js, Flutter<br><br>👨‍💻 All of my projects are available at [Portfolio](https://www.shahnihir.com/).<br><br>💬 Ask me about Django<br><br>📫 How to reach me contact@shahnihir.com<br><br>📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nihir-shah-2964a1209).
 
 
 ## 🌐 Socials:
